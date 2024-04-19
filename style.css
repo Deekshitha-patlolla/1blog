@@ -14,7 +14,7 @@ color:black;
 
 .bgimage {
     height: 100vh;
-    background: url('C:\imp\images.jpeg');
+    background: url('https://pngtree.com/freebackground/rainbow-curves-abstract-colorful-background_2379642.html');
     background-size: cover;
     background-color: plum;
     position: relative;
@@ -44,11 +44,11 @@ color:black;
 }
 
 .image_about {
-    width: 60%;
+    width: 50%;
 }
 
 .navbarDark {
-    background: #000;
+    background: green;
 }
 
  {
@@ -57,7 +57,7 @@ color:black;
 .container1 {
     width: 100%;
    
-    background-color: royalblue;
+    background-color: skyblue;
     
 }
 
